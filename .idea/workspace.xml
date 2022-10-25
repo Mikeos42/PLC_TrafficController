@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2c16af9-5f50-4acc-ab59-50147e40f644" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PLC_TrafficController.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficControllerEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficRegistrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficRegistrarEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/bluecar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/bridge.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/redcar.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GcTquZCN7OEUXI8PGLbkRDqGpE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.RunGUI">
+    <configuration name="BridgeGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BridgeGUI" />
+      <module name="PLC_TrafficController" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunGUI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="$PROJECT_DIR$/../TrafficController/src" />
+      <option name="MAIN_CLASS_NAME" value="BridgeGUI" />
+      <module name="PLC_TrafficController" />
+      <shortenClasspath name="NONE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrafficController/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BridgeGUI" />
+      <item itemvalue="Cucumber Java.RunGUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BridgeGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c16af9-5f50-4acc-ab59-50147e40f644" name="Changes" comment="" />
+      <created>1666687068087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666687068087</updated>
+      <workItem from="1666687069277" duration="415000" />
+      <workItem from="1666687509710" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
