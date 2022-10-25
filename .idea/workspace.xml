@@ -4,30 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2c16af9-5f50-4acc-ab59-50147e40f644" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PLC_TrafficController.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficControllerEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficRegistrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficRegistrarEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bluecar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/bridge.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/redcar.gif" afterDir="false" />
+    <list default="true" id="a2c16af9-5f50-4acc-ab59-50147e40f644" name="Changes" comment="Die GUI funktioniert :)&#10;Line Separators fix">
+      <change afterPath="$PROJECT_DIR$/src/TrafficControllerFair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficControllerSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,11 +62,11 @@
       </method>
     </configuration>
     <configuration name="RunGUI" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <option name="FILE_PATH" value="$PROJECT_DIR$/../TrafficController/src" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src" />
       <option name="MAIN_CLASS_NAME" value="BridgeGUI" />
       <module name="PLC_TrafficController" />
       <shortenClasspath name="NONE" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrafficController/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,11 +90,36 @@
       <option name="presentableId" value="Default" />
       <updated>1666687068087</updated>
       <workItem from="1666687069277" duration="415000" />
-      <workItem from="1666687509710" duration="655000" />
+      <workItem from="1666687509710" duration="6448000" />
     </task>
+    <task id="LOCAL-00001" summary="Die GUI funktioniert :)&#10;Line Separators not fixed">
+      <created>1666688303077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666688303077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Die GUI funktioniert :)" />
+    <MESSAGE value="Die GUI funktioniert :)&#10;Line Separators not fixed" />
+    <MESSAGE value="Die GUI funktioniert :)&#10;Line Separators fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Die GUI funktioniert :)&#10;Line Separators fix" />
   </component>
 </project>
