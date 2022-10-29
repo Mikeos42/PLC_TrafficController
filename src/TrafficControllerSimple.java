@@ -50,6 +50,5 @@ public class TrafficControllerSimple implements TrafficController {
         blocked = false;
         notify();
         System.out.println("Left leaves bridge");
-
     }
 }

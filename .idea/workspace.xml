@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2c16af9-5f50-4acc-ab59-50147e40f644" name="Changes" comment="Die GUI funktioniert :)&#10;Line Separators fix">
-      <change afterPath="$PROJECT_DIR$/src/TrafficControllerFair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TrafficControllerSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CarWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrafficControllerFair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrafficControllerFair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrafficControllerSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrafficControllerSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +92,7 @@
       <updated>1666687068087</updated>
       <workItem from="1666687069277" duration="415000" />
       <workItem from="1666687509710" duration="6448000" />
+      <workItem from="1667051893610" duration="6617000" />
     </task>
     <task id="LOCAL-00001" summary="Die GUI funktioniert :)&#10;Line Separators not fixed">
       <created>1666688303077</created>
